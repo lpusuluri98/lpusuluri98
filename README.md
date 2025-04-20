@@ -30,7 +30,7 @@ I'm a Computer Engineering Master's student at Illinois Tech with a focus on IoT
 - 🌐 **Smart IoT Hub** – Full-stack MQTT-enabled IoT control panel using ReactJS, Spring Boot, and Java APIs – [Links are being compiled... Give me a minute!](#)
 - 💡 **Smart Street Lights** – ESP8266 + motion sensors + MQTT + Adafruit Cloud for streetlight automation – [Still working on those links, don’t go anywhere!](#)
 - 👁️‍🗨️ **Driver Distraction Alert System**: Led the development of a system achieving high accuracy in detecting driver distractions and road signs, winning an Ideathon at IoT Research Labs – [Links under construction – please don’t send a search party 🚧](#)
-- 🏡 **IoT Home Automation with Adafruit** – Home automation system using IoT, MQTT, and Adafruit cloud integration – [At last, a link appears! 🎉](https://github.com/lpusuluri98/iot_home_automation_adafruit)
+- 🏡 **IoT Home Automation with Adafruit** – Home automation system using IoT, MQTT, and Adafruit cloud integration – [At last, a link appears! 🎉 Click here to check it out!](https://github.com/lpusuluri98/iot_home_automation_adafruit)
 
 ---
 
